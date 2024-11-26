@@ -1,0 +1,19 @@
+body {
+	background-color: #3E424B;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	background-color: #343434;
+}
+
+.crypto {
+	padding: 30px;
+	border: 10px lightblue;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
